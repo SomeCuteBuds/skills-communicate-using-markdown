@@ -11,3 +11,9 @@
     "message": "hello people reading this!"
   }
 ```
+
+##### Now I'm adding a task list
+
+- [ ] Create a Github Page
+- [ ] Added a blog post
+- [ ] Publish to let the world know who I am
